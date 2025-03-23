@@ -1,0 +1,4 @@
+name: ozarkjimmy
+recipe: lamp
+config:
+  webroot: .
